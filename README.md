@@ -17,5 +17,6 @@ Currently includes:
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DSA_Animation_Game.git
+   git clone https://github.com/fantasticfahim/DSA_Animation_Game.git
    cd DSA_Animation_Game
+
